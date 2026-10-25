@@ -22,3 +22,5 @@ resource "aws_subnet" "private_subnet" {
     Project = "AWS-Terraform-Portfolio"
   }
 }
+
+
